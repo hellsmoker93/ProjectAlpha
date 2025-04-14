@@ -12,7 +12,7 @@ const Navbar = () => {
         <div className="flex justify-between h-16">
           <div className="flex items-center">
             <img
-              src="public/assets/Enfield.jpg"
+              src="/assets/Enfield.jpg"
               alt="Enfield Royal Clinics"
               className="h-8 w-auto"
             />
