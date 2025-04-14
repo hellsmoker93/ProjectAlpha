@@ -12,7 +12,7 @@ const Navbar = () => {
         <div className="flex justify-between h-16">
           <div className="flex items-center">
             <img
-              src="https://erc-19g4.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.cc99b0cc.png&w=128&q=75"
+              src="./Enfield.jpg"
               alt="Enfield Royal Clinics"
               className="h-8 w-auto"
             />
