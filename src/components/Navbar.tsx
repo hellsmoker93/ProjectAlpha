@@ -14,8 +14,11 @@ const Navbar = () => {
             <img
               src="/assets/Enfield.jpg"
               alt="Enfield Royal Clinics"
-              className="h-8 w-auto"
+              className="h-10 w-auto"
             />
+            <span className="ml-3 text-gray-800 font-semibold text-lg">
+    Enfield Royal Clinics
+  </span>
           </div>
           
           {/* Desktop Navigation */}
