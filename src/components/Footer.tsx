@@ -8,9 +8,9 @@ const Footer = () => {
         <div className="flex flex-wrap">
           <div className="w-full lg:w-4/12 px-4">
             <img
-              src="https://erc-19g4.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.cc99b0cc.png&w=128&q=75"
+              src="/assets/Enfield.jpg"
               alt="Enfield Royal Clinics"
-              className="h-12 w-auto mb-4"
+              className="h-10 w-auto"
             />
             <p className="text-gray-400 mb-4">
               Providing exceptional healthcare services with a commitment to excellence and patient care.
