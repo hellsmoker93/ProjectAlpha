@@ -3,17 +3,17 @@ import { Star } from 'lucide-react';
 
 const testimonials = [
   {
-    name: "Sarah Johnson",
+    name: "XXX3",
     text: "The care I received at Enfield Royal Clinics was exceptional. The staff was professional and caring throughout my treatment.",
     rating: 5
   },
   {
-    name: "Michael Chen",
+    name: "XXX2",
     text: "Outstanding medical facility with state-of-the-art equipment. The doctors are highly skilled and take time to explain everything.",
     rating: 5
   },
   {
-    name: "Emma Thompson",
+    name: "XXX",
     text: "I've been a patient for years and consistently received excellent care. The new facility is beautiful and comfortable.",
     rating: 5
   }
