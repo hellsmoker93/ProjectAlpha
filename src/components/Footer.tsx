@@ -7,12 +7,7 @@ const Footer = () => {
       <div className="container mx-auto px-4">
         <div className="flex flex-wrap">
           <div className="w-full lg:w-4/12 px-4">
-            <img
-              src="/assets/Enfield.jpg"
-              alt="Enfield Royal Clinics"
-              className="h-10 w-auto"
-            />
-            <span className="ml-3 text-gray-800 font-bold text-lg">
+            <span className="ml-3 text-gray-800 hover:text-white transition-colors font-bold text-lg">
     Enfield Royal Clinics
   </span>
             <p className="text-gray-400 mb-4">
