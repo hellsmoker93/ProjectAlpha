@@ -12,6 +12,9 @@ const Footer = () => {
               alt="Enfield Royal Clinics"
               className="h-10 w-auto"
             />
+            <span className="ml-3 text-gray-800 font-bold text-lg">
+    Enfield Royal Clinics
+  </span>
             <p className="text-gray-400 mb-4">
               Providing exceptional healthcare services with a commitment to excellence and patient care.
             </p>
